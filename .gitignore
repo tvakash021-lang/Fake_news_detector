@@ -1,0 +1,10 @@
+data/raw/*
+!data/raw/.gitkeep
+*.pyc
+__pycache__/
+.env
+venv/
+models/checkpoints/
+models/production_model/
+models/optimized_onnx_model/
+.pytest_cache/
